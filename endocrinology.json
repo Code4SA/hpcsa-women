@@ -1,0 +1,1306 @@
+[
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1962-12-13T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1968-06-18T00:00:00", 
+                "degree": "MMed (Paed) Cape Town"
+            }
+        ], 
+        "name": "PROF FRANCOIS  BONNICI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-01-28T00:00:00", 
+                "degree": "MRCS Eng LRCP Lond"
+            }, 
+            {
+                "date": "1971-05-24T00:00:00", 
+                "degree": "MB BS Lond"
+            }, 
+            {
+                "date": "1974-03-30T00:00:00", 
+                "degree": "MRCP (UK)"
+            }
+        ], 
+        "name": "DR. RAY  MOORE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1965-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1974-10-31T00:00:00", 
+                "degree": "MRCP (UK)"
+            }
+        ], 
+        "name": "PROF WILLIAM JOHN KALK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1968-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1976-12-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. BRIAN DAVID KRAMER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-11-16T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1980-07-30T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "1981-05-01T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. MANGOO CHHAGGAN RAJPUT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1975-11-07T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1984-05-30T00:00:00", 
+                "degree": "MMed (Paed) Pret"
+            }
+        ], 
+        "name": "DR. JACOBUS CORNELIUS VAN DYK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1984-10-26T00:00:00", 
+                "degree": "LKI (SA)"
+            }, 
+            {
+                "date": "1985-03-20T00:00:00", 
+                "degree": "MMed (Int) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. WILLEM FREDERIK MOLLENTZE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-11-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1976-12-31T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "1985-12-31T00:00:00", 
+                "degree": "PhD Witwatersrand"
+            }
+        ], 
+        "name": "DR. ROY  SHIRES"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1982-11-12T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1988-04-29T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. HOOSEN AHMED RANDEREE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-11-21T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1981-10-19T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "1986-03-25T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1988-06-03T00:00:00", 
+                "degree": "MMed Cape Town"
+            }
+        ], 
+        "name": "DR. STEPHEN VICTOR DELPORT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-07-28T00:00:00", 
+                "degree": "FOREIGN"
+            }
+        ], 
+        "name": "DR. CHUKWUMA OGBONNA EKPEBEGH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-01-03T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1983-10-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1988-10-30T00:00:00", 
+                "degree": "MMed Cape Town"
+            }
+        ], 
+        "name": "DR. HILTON  KAPLAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1982-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1989-10-27T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. MARIA-TERESA  VAN DER MERWE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1989-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }
+        ], 
+        "name": "DR. KAREN  BARNARD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-11-01T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1977-10-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1978-03-30T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "1983-04-30T00:00:00", 
+                "degree": "MD Natal"
+            }, 
+            {
+                "date": "1990-04-26T00:00:00", 
+                "degree": "FRCP Lond"
+            }
+        ], 
+        "name": "DR. MAHOMED ABDOOL KHALEK OMAR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1977-11-28T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1983-03-30T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "1991-12-31T00:00:00", 
+                "degree": "MD Natal"
+            }
+        ], 
+        "name": "DR. AYESHA AHMED MOTALA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1985-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1992-05-08T00:00:00", 
+                "degree": "FCP (SA) Paed"
+            }
+        ], 
+        "name": "DR. KUBENDRAN  PILLAY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-01-01T00:00:00", 
+                "degree": "MB ChB Witwatersrand"
+            }
+        ], 
+        "name": "DR. DAVID GRANT SEGAL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1985-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1993-04-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. FRASER JAMES PIRIE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1987-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1993-05-07T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. ANDRE CHARLES PIETERSE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1993-10-23T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. SHARON JOY GOLDBURGH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-29T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1994-10-28T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. ASLAM  AMOD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1986-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1994-10-31T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }
+        ], 
+        "name": "DR. HELENA  OOSTHUIZEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1982-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1986-05-16T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "1987-12-03T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }, 
+            {
+                "date": "1988-12-01T00:00:00", 
+                "degree": "DPH Witwatersrand"
+            }, 
+            {
+                "date": "1996-12-10T00:00:00", 
+                "degree": "MMed (Paed) Cape Town"
+            }
+        ], 
+        "name": "DR. EKKEHARD WERNER ARTHUR ZOLLNER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-27T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1990-10-31T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "1997-05-08T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. ARIANE MARTINE JEANNE SPITAELS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1989-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1999-06-30T00:00:00", 
+                "degree": "MMed (Int) Orange Free State"
+            }
+        ], 
+        "name": "DR. JOHANNA MARIA MAGDALENA KONING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1987-07-28T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "1987-10-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1991-11-15T00:00:00", 
+                "degree": "MMed (Med) Witwatersrand"
+            }, 
+            {
+                "date": "1995-12-22T00:00:00", 
+                "degree": "FRCP Canada"
+            }, 
+            {
+                "date": "2000-06-27T00:00:00", 
+                "degree": "PhD Witwatersrand"
+            }, 
+            {
+                "date": "2000-07-31T00:00:00", 
+                "degree": "FRCP Lond"
+            }
+        ], 
+        "name": "PROF FREDERICK JOHAN RAAL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1992-11-20T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2002-10-17T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. IAN LOUIS ROSS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1994-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. WAYNE MARK MAY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. SINDEEP AMRAT BHANA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-10-28T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2002-05-23T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2005-05-12T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. SOPHIA  RAUFF"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1998-04-23T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. FAZLEH AHMED MAHOMED"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1991-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2000-06-23T00:00:00", 
+                "degree": "PhD Cape Town"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. JOEL ALEX DAVE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1998-04-23T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2003-05-08T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. MICHELLE MARGARET CARRIHILL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-25T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2003-05-08T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. HAJIRA BIBI BACUS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-06-12T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1979-12-31T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }, 
+            {
+                "date": "1980-05-31T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "1983-04-30T00:00:00", 
+                "degree": "MFGP (SA)"
+            }, 
+            {
+                "date": "1987-03-25T00:00:00", 
+                "degree": "MMed (Paed) Witwatersrand"
+            }, 
+            {
+                "date": "1990-04-30T00:00:00", 
+                "degree": "PhD (Med) Witwatersrand"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2007-02-09T00:00:00", 
+                "degree": "FCFP (SA)"
+            }
+        ], 
+        "name": "PROF FRANCOIS PIERRE ROUSSEAU DE VILLIERS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1996-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2007-05-10T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. GREGORY ARTHUR HOUGH"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-25T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1997-10-23T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2002-05-23T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. YASMEEN NISA GANIE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-11-19T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. IMRAN MAHOMED PARUK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. PRETISSHA  HARRICHUND"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. ANNA MARIA KLISIEWICZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2006-06-30T00:00:00", 
+                "degree": "MMed (Int) Orange Free State"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. THABISO RAFAKI PETRUS MOFOKENG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. WILLIAM DIRK TOET"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. NASRIN  GOOLAM MAHYOODEEN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1997-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2005-08-18T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. TANJA  KEMP"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2009-05-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. ALKESH  MAGAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1979-11-13T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1987-10-14T00:00:00", 
+                "degree": "MMed (Paed) Witwatersrand"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. KIRAN BHAGOO PARBHOO"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-27T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-01-04T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. DAKSHA  JIVAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1998-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. SUREKA  MAHARAJ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-29T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2007-12-31T00:00:00", 
+                "degree": "MMed (Int) Orange Free State"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. WILLEM  DE LANGE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2007-05-10T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. ZAHEER  BAYAT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. CARSTEN JOACHIM BERND WEINREICH"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. KERRY JOAN MARRAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1997-11-19T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. FATIMA YAKOUB MOOSA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-25T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2003-05-08T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2004-01-31T00:00:00", 
+                "degree": "MMed (Paed) Stell"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. DANELLE MARGO VAN DER MERWE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-30T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. MARLI  CONRADIE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1996-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. AJAY CHHAGAN CHIBA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-24T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. SHAFEEKA ISMAIL TAYOB"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1998-10-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2006-08-03T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. ELUNED FLORENCE DELPORT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-27T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. JOANNA JANE SKELTON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-21T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2009-12-31T00:00:00", 
+                "degree": "MMed (Int) Orange Free State"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. FRANCOIS HAYWARD VAN ZYL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. SEDESHAN SOOBRAMONEY GOVENDER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-22T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. GITA  MAKAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "DA (SA)"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. VERONIQUE  NICOLAOU"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. SUNDEEP  RUDER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. AMITH  RAMCHARAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-10-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2007-07-19T00:00:00", 
+                "degree": "MMed (Paed) Witwatersrand"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }, 
+            {
+                "date": "2014-05-16T00:00:00", 
+                "degree": "PhD Witwatersrand"
+            }
+        ], 
+        "name": "DR. KEBASHNI  THANDRAYEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. VISHAL LUTCHMAN JAIRAM"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. KERSHLIN  NAIDU"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-19T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2011-10-31T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. SIMON MARK AKERMAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-19T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. JAYALAKSHMI  NARAINSAMY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-10-29T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2010-12-31T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "Cert Endocrinology and Metabolism (SA)"
+            }
+        ], 
+        "name": "DR. LIZL  SMITH"
+    }
+]

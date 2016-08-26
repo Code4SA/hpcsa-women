@@ -1,0 +1,2582 @@
+[
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1947-06-27T00:00:00", 
+                "degree": "Arts Examen Nederland"
+            }
+        ], 
+        "name": "DR. ANDRIES SAMUEL DE GRAAF"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1948-06-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1952-11-27T00:00:00", 
+                "degree": "DPM Witwatersrand"
+            }, 
+            {
+                "date": "1956-03-24T00:00:00", 
+                "degree": "MD Witwatersrand"
+            }
+        ], 
+        "name": "DR. LYNN SINCLAIR GILLIS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1938-01-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1951-06-30T00:00:00", 
+                "degree": "DPM Witwatersrand"
+            }, 
+            {
+                "date": "1958-11-12T00:00:00", 
+                "degree": "MD Witwatersrand"
+            }
+        ], 
+        "name": "DR. FRANCES HELEN REINHOLD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1959-12-10T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }
+        ], 
+        "name": "DR. JACK  THORNE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1952-12-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1961-11-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. HENDRIK WILLEM LINDLEY KOK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1958-11-08T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1964-10-16T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. FRANCOIS  VERSTER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1959-11-07T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1965-11-30T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }
+        ], 
+        "name": "DR. ALEWYN PETRUS ROSSOUW"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1942-01-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1954-06-01T00:00:00", 
+                "degree": "MMed Cape Town"
+            }, 
+            {
+                "date": "1954-12-01T00:00:00", 
+                "degree": "MD Cape Town"
+            }, 
+            {
+                "date": "1967-01-30T00:00:00", 
+                "degree": "DPM Cape Town"
+            }
+        ], 
+        "name": "DR. FRANCES RIX AMES"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1959-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1967-05-05T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. MANNEY SIDNEY ORELOWITZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1961-12-14T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1969-05-02T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. DEREK VINCENT PHILCOX"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1964-12-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1969-05-02T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. PIERRE LOUIS ALFRED BILL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1967-11-26T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1972-05-05T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. VIVIAN UNA FRITZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1967-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1972-10-27T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "PROF CORNELIS HENDRIKUS VAN DER MEYDEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1963-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1974-06-15T00:00:00", 
+                "degree": "MFGP (SA)"
+            }, 
+            {
+                "date": "1975-05-02T00:00:00", 
+                "degree": "MRCP (UK)"
+            }
+        ], 
+        "name": "DR. JOHN HARTLEY FLEMING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1970-12-08T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1978-03-30T00:00:00", 
+                "degree": "MRCP (UK)"
+            }
+        ], 
+        "name": "DR. ROLAND WILLIAM EASTMAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1970-11-21T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1978-04-28T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. WILLIAM GRAEME MAXWELL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-11-26T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1979-11-30T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "1980-05-02T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. BHUPENDRA  BHAGWAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-12-11T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1982-12-30T00:00:00", 
+                "degree": "MMed (Neurol) Stell"
+            }
+        ], 
+        "name": "DR. FRANS HENDRIK BADENHORST"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-01-01T00:00:00", 
+                "degree": "MB ChB Birm"
+            }, 
+            {
+                "date": "1983-05-03T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. HUGH  STAUB"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-26T00:00:00", 
+                "degree": "BM Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1984-05-04T00:00:00", 
+                "degree": "LKI (SA)"
+            }
+        ], 
+        "name": "DR. ABRAHAM JACOBUS KRUGER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-11-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1984-10-26T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1984-10-30T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. MALCOLM KEVIN BAKER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-10T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1985-04-26T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. DAVID MEYER LURIE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1972-07-01T00:00:00", 
+                "degree": "MD Louvain"
+            }, 
+            {
+                "date": "1985-04-30T00:00:00", 
+                "degree": "LKI (SA)"
+            }
+        ], 
+        "name": "DR. ALFONS ROBERT LEONIE LOMBAERT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1986-11-30T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. CHRISTO CAREL COETZEE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1977-11-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1987-05-01T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. MARINA  GREYLING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-12-05T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1987-05-01T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. SIMON MICHAEL KESLER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-12-05T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1987-06-30T00:00:00", 
+                "degree": "MMed (Neurol) Stell"
+            }
+        ], 
+        "name": "DR. EDWARD BERNARD LEE PAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-11-21T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1987-10-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. COLIN ERIC WOLPE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1987-11-30T00:00:00", 
+                "degree": "MMed (Neurol) Stell"
+            }
+        ], 
+        "name": "DR. JOHN  GARDINER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1978-11-17T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1985-04-26T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1988-04-29T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. HARISH CHIMANLAL HARIBHAI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1979-11-13T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1988-04-29T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. DESMOND JOSEPH SHAMLEY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1979-11-13T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1986-07-09T00:00:00", 
+                "degree": "PhD Lond"
+            }, 
+            {
+                "date": "1988-05-02T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "PROF GIRISH  MODI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1983-06-03T00:00:00", 
+                "degree": "L LM RCP Irel L LM RCS Irel"
+            }, 
+            {
+                "date": "1988-10-28T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. ABDUL SATTAR AHMED"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1989-10-27T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. MALCOLM  RABIE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1983-11-18T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1989-10-27T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. JOHAN  REID"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1981-07-06T00:00:00", 
+                "degree": "MB ChB Manc"
+            }, 
+            {
+                "date": "1990-05-11T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. CHRISTINE  KELBE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1972-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1980-10-31T00:00:00", 
+                "degree": "MFAP (SA)"
+            }, 
+            {
+                "date": "1990-06-30T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. WILLIAM STEPHEN VAN NIEKERK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1978-11-24T00:00:00", 
+                "degree": "BM Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1985-01-16T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1990-07-30T00:00:00", 
+                "degree": "MMed (Paed) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. FREDA PETRONELLA JANSE VAN RENSBURG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1961-06-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1967-12-30T00:00:00", 
+                "degree": "MMed (Paed) Cape Town"
+            }, 
+            {
+                "date": "1968-06-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1991-05-30T00:00:00", 
+                "degree": "MMed (Neurol) Cape Town"
+            }
+        ], 
+        "name": "DR. ALAN JAMES GEORGE THOMSON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1979-11-23T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1991-06-30T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. ARNOLDA GERBRANDA ELOFF"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1985-11-22T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1991-10-25T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. JEANNINE MARIETTE HECKMANN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1985-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1992-05-08T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. NIRUPA  SHAH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1992-10-30T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. JONATHAN AMBROSE CARR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1983-12-08T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1993-01-18T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. JUDY  GREEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1983-11-18T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1989-05-12T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1993-04-30T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. VINOD BHAGU PATEL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1983-11-10T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1993-09-22T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. AMANDA  DUVENAGE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-11-26T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1993-10-22T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. VANITHADEVI  PARMANAND"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1993-12-31T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. JOHANNES ALBERTUS SMUTS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1987-11-06T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1994-04-21T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. STANLEY CHARLES WOLBERG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1986-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1994-07-29T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }, 
+            {
+                "date": "1994-10-21T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. WIEBREN  DUIM"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1989-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1994-10-28T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. STACEY HEATHER KRETZMER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-11-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1994-12-31T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. CLARA-MARIA  SCHUTTE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1995-05-05T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. JAMES THOMAS BUTLER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1987-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1995-05-05T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. DOMINIC LOUIS GIAMPAOLO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1994-11-28T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1995-05-05T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. JOHANNES MARTHINUS TERBLANCHE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1995-05-05T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. RACHELLE  NOSSEL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1985-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1995-07-10T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }, 
+            {
+                "date": "1995-10-25T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. ERNA  JACOBS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1996-04-26T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. MARC IRWIN COMBRINCK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1986-11-28T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1996-04-26T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. JENNIFER  FINE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-18T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1996-04-26T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. MICHAEL DAVID ISAACS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1990-12-02T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1996-08-05T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. ELMARIE  JANSE VAN RENSBURG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1996-12-09T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. ANANDAN ANGAMUTHU MOODLEY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1990-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1997-05-08T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. SUSAN HODE TAGER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-01-01T00:00:00", 
+                "degree": "LMC Palermo"
+            }, 
+            {
+                "date": "1997-11-06T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. DIMITIOS  MANOUSSAKIS"
+    }, 
+    {
+        "gender": null, 
+        "degrees": [
+            {
+                "date": "1998-01-30T00:00:00", 
+                "degree": "FOREIGN"
+            }
+        ], 
+        "name": "DR. JULIANE  HIESGEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1992-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1998-11-30T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. WILLEM PIERRE VAN DER MERWE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1999-04-22T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. LAWRENCE MASKEW TUCKER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1992-11-26T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1999-01-01T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }, 
+            {
+                "date": "1999-04-22T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. DALIWONGA SITHEMBELE MAGAZI"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1993-11-30T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "1999-04-22T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }, 
+            {
+                "date": "1999-07-20T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. MARIET  VAN NIEKERK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1992-11-27T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2000-02-28T00:00:00", 
+                "degree": "MMed (Neurol) Orange Free State"
+            }
+        ], 
+        "name": "DR. ALBERTUS PETRUS MEYER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1990-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. FARHANA  MOTALA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1992-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. VINESHREE  REDDY"
+    }, 
+    {
+        "gender": null, 
+        "degrees": [
+            {
+                "date": "1993-01-01T00:00:00", 
+                "degree": "Arztliche Prufung Munchen"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FCS (SA) (Neuro)"
+            }
+        ], 
+        "name": "DR. ANDRE HANS-DIETER MOCHAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1983-10-30T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }, 
+            {
+                "date": "1990-08-30T00:00:00", 
+                "degree": "MD Pret"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FCS (SA) (Neuro)"
+            }
+        ], 
+        "name": "DR. KEVIN DAVID ROSMAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-11-16T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1985-07-03T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1988-11-30T00:00:00", 
+                "degree": "MMed (Neurol) Cape Town"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. ALAN  BRYER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1991-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. ZIPORA  KATZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1994-11-25T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2000-11-09T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. ANDRE  LEONARD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1994-11-18T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2000-11-15T00:00:00", 
+                "degree": "MMed (Neurol) Stell"
+            }
+        ], 
+        "name": "DR. PIERRE ETIENNE VAN DER WALT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1991-11-26T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1993-12-17T00:00:00", 
+                "degree": "DKG (SA)"
+            }, 
+            {
+                "date": "1999-10-21T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2000-11-26T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. MARCELL  BRITZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1994-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2001-05-10T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. IGHSAN  MARTINUS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FCS (SA) (Neuro)"
+            }
+        ], 
+        "name": "DR. TRACEY NICOLE KAPLAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1991-11-29T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1997-01-13T00:00:00", 
+                "degree": "M Fam Med Orange Free State"
+            }, 
+            {
+                "date": "2001-11-26T00:00:00", 
+                "degree": "MMed (Neurol) Orange Free State"
+            }
+        ], 
+        "name": "DR. LIESL  SMIT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1993-12-07T00:00:00", 
+                "degree": "MB ChB Transkei"
+            }, 
+            {
+                "date": "2002-01-09T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. MANDISA  KAKAZA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1994-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2002-05-23T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. OZAYR SALEH AMEEN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-22T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2002-05-23T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. JODY CAREN PEARL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-11-30T00:00:00", 
+                "degree": "TDD Wales"
+            }, 
+            {
+                "date": "2002-10-17T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }
+        ], 
+        "name": "DR. PRADEEP  ROWJI"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-10-24T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2003-05-08T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. PATTY  FRANCIS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-25T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2003-05-08T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. SORAYA  OSMAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-27T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2003-05-08T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. LIA  MAVRODARIS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2002-10-17T00:00:00", 
+                "degree": "FCP (SA) Neurol"
+            }, 
+            {
+                "date": "2003-05-14T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. CHRISTIAAN GOTTFRIED GULDENPFENNIG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2003-12-17T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. CHRIS FRANCOIS RETIEF"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-11-29T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ZAHEER  SACOOR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. DONATELLA  BELBELLO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1992-11-27T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ANDREW CHARLES FROST"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1996-11-25T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. FRANCLO  HENNING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-11-29T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. RIDWAAN  KATHRADA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-10-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2005-01-31T00:00:00", 
+                "degree": "MMed (Neur) Pret"
+            }
+        ], 
+        "name": "DR. RIAAN  VAN COLLER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-01-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-04-22T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. MEENESH  AMAIDAS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-10-29T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2005-05-12T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. STASIA DIANA BEDNAREK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-11-18T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ANNETTE  SWANEPOEL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1997-11-19T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. JASVINA  RANCHHOD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. AYESHA  MOTALA"
+    }, 
+    {
+        "gender": null, 
+        "degrees": [
+            {
+                "date": "2003-09-30T00:00:00", 
+                "degree": "Board Exam - HPCSA"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. BONIFACE KAPSEH CHEYIP"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1983-11-30T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1990-12-31T00:00:00", 
+                "degree": "MMed (Psych) Stell"
+            }, 
+            {
+                "date": "1993-10-22T00:00:00", 
+                "degree": "FF Psych (SA)"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. JUSTINUS ANTON BRINK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. DAVID GRAHAM ANDERSON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-10-11T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "H Dip Int Med (SA)"
+            }, 
+            {
+                "date": "2006-06-02T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. MANESH  PILLAY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1993-10-25T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2006-08-31T00:00:00", 
+                "degree": "MMed (Neurol) Orange Free State"
+            }
+        ], 
+        "name": "DR. GERDA JEANETTE WAHL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-16T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2007-05-10T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. IZAK DANIEL PETRUS BURGER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1975-11-06T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1978-11-30T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "1980-05-02T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1985-11-30T00:00:00", 
+                "degree": "MMed (Neurol) Cape Town"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "PROF AHMED IQBAL BHIGJEE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. KAUSHIK ISHWARLAL RANCHOD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1998-11-26T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. KIRTI  RANCHOD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-30T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2007-11-16T00:00:00", 
+                "degree": "MMed (Neurol) Orange Free State"
+            }
+        ], 
+        "name": "DR. STELLA  DE KOCK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1979-11-23T00:00:00", 
+                "degree": "BM Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1986-11-01T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. PETRUS JACOBUS JOHANNES SWARTZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-11-25T00:00:00", 
+                "degree": "BM Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1987-06-30T00:00:00", 
+                "degree": "MMed (Neurol) Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. FRANS JACOBUS LUBBE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1983-11-29T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1992-11-20T00:00:00", 
+                "degree": "MMed (Neurol) Stell"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. JOHAN  KEYTER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1987-11-06T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1995-11-30T00:00:00", 
+                "degree": "MMed (Neurol) Stell"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. DION CRAIG OPPERMAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. VINESH  PILLAY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. HOOSAIN FARUK PARUK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. YASEEN  YACOOB"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. KATHLEEN JANE BATEMAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. KAMINIE  MOODLEY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ASHLEIGH  BHANJAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2008-12-31T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. NATANYA  FOURIE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-16T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2009-04-17T00:00:00", 
+                "degree": "MMed (Neurol) - Limpopo"
+            }
+        ], 
+        "name": "DR. MANTOA ELIZABETH MOAGI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. KALPESH DERAJI JIVAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. IRSHAD FAIZAL SIDDI GANIE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. FERZANA HASSAN AMOD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-29T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. FREDERIK JACOBUS CILLIERS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. AMANULLAH  RAWOOT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. MOHAMMED  KHAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. RAKSHA  SITHARAM"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. FIONA AILSA MAXWELL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. DIKELEDI MILLICENT MANYANE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-19T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ANSUYA KASAVELU NAIDOO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "Dip Pec (SA)"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ALEXANDER MARIUS LANDMANN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1992-11-03T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1994-10-21T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. VANMALA  NAIDOO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-10-31T00:00:00", 
+                "degree": "Dip Fam Med Pret"
+            }, 
+            {
+                "date": "2005-06-30T00:00:00", 
+                "degree": "FOREIGN"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ZAFAR  IQBAL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }, 
+            {
+                "date": "2011-10-31T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. TANIEL  TOWNSEND"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-12-01T00:00:00", 
+                "degree": "MB ChB Limpopo"
+            }, 
+            {
+                "date": "2011-11-03T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. MAANDA RODNEY MUDAU"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-29T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2012-01-31T00:00:00", 
+                "degree": "MMed (Neurol) Orange Free State"
+            }
+        ], 
+        "name": "DR. NEVILLE  AUTHS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2005-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. SHAHEED  GORA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-23T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. BUSISIWE  MOMBAUR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2007-05-10T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. MUMTAZ  BERA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "H Dip Int Med (SA)"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. RUDI  RENISON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. DINITA  DEVCHAND"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-30T00:00:00", 
+                "degree": "MB ChB Limpopo"
+            }, 
+            {
+                "date": "2012-10-01T00:00:00", 
+                "degree": "MMed (Neurol) Medunsa"
+            }
+        ], 
+        "name": "DR. MIKATEKO ROSEMOND MOKABANE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2005-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. MOHAMMAD EITZAZ SADIQ"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. SUZAAN  MARAIS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-19T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. NEIL  NAIDOO"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-02-23T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }, 
+            {
+                "date": "2012-12-04T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. ANNA CECILIA MAHNE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-25T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2013-04-29T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. JAYENDRA  NAIDOO"
+    }, 
+    {
+        "gender": null, 
+        "degrees": [
+            {
+                "date": "2008-06-15T00:00:00", 
+                "degree": "Board Exam - HPCSA"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. FUAD MUFTAH ABUSDERA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2005-05-12T00:00:00", 
+                "degree": "DMH (SA)"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. CHRISTINE HERCULINE ALBERTYN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-18T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. NAEEM  BREY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-19T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ANASTASIA CLAUDIA ROSSOUW"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-02-18T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2013-10-21T00:00:00", 
+                "degree": "MMed (Neurol) Pret"
+            }
+        ], 
+        "name": "DR. NEELAY PRAVINKUMAR RANCHHOD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2005-12-06T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "DA (SA)"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. PUENDRAN SHANTI PRAKASH KATHAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-22T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. LEZANNE MARISA WYNAND-NDLOVU"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2006-11-24T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. SHAELIN  GOVENDER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-22T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "Dip Hiv Management (SA)"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ZANELE  MAKASI"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2006-11-24T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }, 
+            {
+                "date": "2014-03-31T00:00:00", 
+                "degree": "MMed (Neurol) Orange Free State"
+            }
+        ], 
+        "name": "DR. ERNA  PRETORIUS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. MICHAEL BRIAN HUTH"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-25T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ARADHNA  KOULASSAR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ALISON JEAN RICHARDSON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2006-12-05T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. DAVID KWABENA TWENE DJAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2005-11-25T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. NUREN BHAGWATH PROSAD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2007-09-07T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2007-09-07T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. PEARL MELANI THOMAS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2007-11-30T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2007-11-30T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. IZANNE CRAILL ROOS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-23T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. ALAN MICHAEL STANLEY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-12-01T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2004-12-01T00:00:00", 
+                "degree": "MB ChB Limpopo"
+            }, 
+            {
+                "date": "2015-10-22T00:00:00", 
+                "degree": "FC Neurol (SA)"
+            }
+        ], 
+        "name": "DR. SEAWABA EULENDA SKOSANA"
+    }
+]

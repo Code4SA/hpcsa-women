@@ -1,0 +1,77 @@
+body {
+  font-size: 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#body-text, #explanation {
+    position: absolute;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+#body-text {
+    top: 120px;
+    left: 50px;
+}
+
+#doctor-53 text {
+    transform: translateY(4px);
+}
+
+#explanation {
+    text-align: left;
+    top: 540px;
+    left: 60px;
+    font-size: 10px;
+    line-height: 15px;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line.female {
+    fill: none;
+    stroke: red;
+    stroke-width: 2.5px;
+}
+
+.line.male {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1.5px;
+}
+
+.y.axis {
+    display: none;
+}
+
+.doctor text {
+    font-size: 8px;
+}
+
+.title {
+    font-size: 2.5em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.degree_other {
+    fill: #555;
+}
+
+div.tooltip {   
+    display: flex;
+    flex-direction: column;
+
+    position: absolute;         
+    text-align: left;         
+    padding: 4px;               
+    font: 10px sans-serif;      
+    background: lightsteelblue; 
+    border-width: 5px;        
+    border-color:#222;
+    border-radius: 2px;         
+    pointer-events: none;           
+}

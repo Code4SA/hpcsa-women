@@ -1,0 +1,4032 @@
+[
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1949-09-20T00:00:00", 
+                "degree": "State Examination Germany"
+            }
+        ], 
+        "name": "DR. FRIEDRICH WILHELM ERNST LEBERECHT HENSCHEL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1957-09-02T00:00:00", 
+                "degree": "Dip in Med Med Acad Warsaw"
+            }
+        ], 
+        "name": "DR. ELZBIETA JADWIGA WICHRZYCKA-LANCASTER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1963-12-12T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }
+        ], 
+        "name": "DR. RICHARD HOLWAY HEWLETT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1951-12-14T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1965-08-30T00:00:00", 
+                "degree": "FF Path (SA)"
+            }, 
+            {
+                "date": "1965-12-30T00:00:00", 
+                "degree": "MMed (Path) Stell"
+            }
+        ], 
+        "name": "DR. DIRK MEIRING DE VILLIERS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1968-01-01T00:00:00", 
+                "degree": "MD Louvain"
+            }
+        ], 
+        "name": "DR. LOUIS JACQUES JEAN FRANCOISE VAN BOGAERT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1963-10-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1968-11-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. SUSAN MADGE DYSON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1963-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1969-11-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. EVERARD EMILE DE BEER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1959-11-07T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1970-11-14T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. PETRUS JOHANNES CASPARUS GRIESSEL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1955-06-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1972-05-05T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. DUNCAN  PIRIE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1954-11-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1973-02-23T00:00:00", 
+                "degree": "MD Pret"
+            }
+        ], 
+        "name": "DR. CHARLOTTE JACOBA BRITS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1967-11-30T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1973-12-07T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. SUSANNA CHRISTINA ELIZABETH MOUTON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-01-01T00:00:00", 
+                "degree": "Dip in Med Med Acad Lublin"
+            }
+        ], 
+        "name": "DR. LECH STANISLAW BANACH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1956-06-27T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1974-05-03T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. ALCHONON LEIB FREINKEL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1959-11-07T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1974-11-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. MARIUS GERARD DE BEER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1967-11-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1973-11-27T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }, 
+            {
+                "date": "1975-04-30T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. REUBEN BENJAMIN SKUDOWITZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1951-11-10T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1976-12-28T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. GIDEON GEORGE RICHTER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1971-11-30T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1976-12-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. BERNA  DE BRUIN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1978-11-16T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. JACK ROY LEWIN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-12-07T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1978-01-01T00:00:00", 
+                "degree": "FF Path (SA)"
+            }, 
+            {
+                "date": "1978-11-30T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. PETER GRIFFITH DAVIES"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-12-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1978-11-30T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }, 
+            {
+                "date": "1979-04-27T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. ROBERT MITFORD BOWEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-11-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1979-04-27T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. JEFFREY ALLAN POSEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1972-12-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1978-11-28T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }, 
+            {
+                "date": "1979-06-27T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. STEPHEN KENNEDY PRICE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1972-12-06T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1979-06-30T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. MERCIA  LOUW"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1958-11-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1963-10-30T00:00:00", 
+                "degree": "FFA RCS Eng"
+            }, 
+            {
+                "date": "1980-06-10T00:00:00", 
+                "degree": "MRC Path Lond"
+            }
+        ], 
+        "name": "DR. BERNARD STOTT AKERMAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-11-18T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1980-10-31T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. MARCUS CHARLES DAVID GRITZMAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1962-12-13T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1980-12-02T00:00:00", 
+                "degree": "MMed Path (Anat) Kaapstad"
+            }, 
+            {
+                "date": "1980-12-30T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. MARIANA JANSEN VAN RENSBURG"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1971-06-25T00:00:00", 
+                "degree": "MB BCh N U Irel"
+            }, 
+            {
+                "date": "1981-05-01T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. GENEVIEVE MARY LEARMONTH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-11-12T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1981-10-23T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. CHARLES JOHN THATCHER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1968-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1973-10-26T00:00:00", 
+                "degree": "MFAP (SA)"
+            }, 
+            {
+                "date": "1974-01-01T00:00:00", 
+                "degree": "M Prax Med Pret"
+            }, 
+            {
+                "date": "1982-01-01T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. LOURENS BADENHORST LEMMER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1975-11-07T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1982-04-30T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. SHUNMUGAM VADIVALU PILLAY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1975-11-07T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1982-06-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. ALETHA ELIZABETH VISSER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1968-11-09T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1980-10-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }, 
+            {
+                "date": "1980-10-30T00:00:00", 
+                "degree": "LF Pat (SA)"
+            }, 
+            {
+                "date": "1982-07-01T00:00:00", 
+                "degree": "MRC Path Lond"
+            }
+        ], 
+        "name": "DR. OSWALD CORNELIUS DITTRICH"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1976-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1982-10-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. LEONORA SUSARAH DE HAAS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1968-12-10T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1982-12-08T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. MICHAEL  SANDLER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1970-11-06T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1983-06-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. MARTHINUS  OTTO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1965-11-06T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1978-12-30T00:00:00", 
+                "degree": "M Prax Med Pret"
+            }, 
+            {
+                "date": "1979-04-27T00:00:00", 
+                "degree": "MFGP (SA)"
+            }, 
+            {
+                "date": "1983-10-30T00:00:00", 
+                "degree": "LF Pat (SA)"
+            }
+        ], 
+        "name": "DR. HENDRIK VAN RENSBURG BRUINETTE"
+    }, 
+    {
+        "gender": null, 
+        "degrees": [
+            {
+                "date": "1974-11-28T00:00:00", 
+                "degree": "MB ChB Birm"
+            }, 
+            {
+                "date": "1983-11-28T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. MICHAEL  HAINSWORTH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1978-11-10T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1984-10-26T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. ALCON  BEHR"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-01-01T00:00:00", 
+                "degree": "MB ChB Rhodesia"
+            }, 
+            {
+                "date": "1984-10-26T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. MARTIN JOHN HALE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1975-11-07T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1984-10-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. PIETER GEORGE JANSEN VAN RENSBURG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-11-21T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. WILLIAM DERMOTT BATES"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1977-11-18T00:00:00", 
+                "degree": "MB ChB Rhodesia"
+            }, 
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. MAUREEN SUSAN DUFFIELD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-12T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1985-04-26T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. AHMED SULIMAN ESSA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1962-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1968-12-30T00:00:00", 
+                "degree": "FF Path (SA)"
+            }, 
+            {
+                "date": "1973-07-08T00:00:00", 
+                "degree": "MRC Path Lond"
+            }, 
+            {
+                "date": "1985-04-30T00:00:00", 
+                "degree": "FRC Path Lond"
+            }
+        ], 
+        "name": "DR. DONALD GRAHAM HAMILTON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1962-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1974-10-25T00:00:00", 
+                "degree": "D Mid COG (SA)"
+            }, 
+            {
+                "date": "1976-04-30T00:00:00", 
+                "degree": "FCOG (SA)"
+            }, 
+            {
+                "date": "1976-06-01T00:00:00", 
+                "degree": "MMed (O & G) Pret"
+            }, 
+            {
+                "date": "1976-09-23T00:00:00", 
+                "degree": "MRCOG"
+            }, 
+            {
+                "date": "1985-06-30T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. PETER ANTHONY BERNHARD WRANZ"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1980-12-05T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1985-10-25T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. INGE  VAN NIEKERK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-12-19T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1985-10-25T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. KUMARASEN  COOPER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-19T00:00:00", 
+                "degree": "MB ChB Rhodesia"
+            }, 
+            {
+                "date": "1985-12-13T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. BRYAN KENYON KNIGHT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-11-24T00:00:00", 
+                "degree": "BM Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1985-12-19T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. ROWLAND  MEEK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-30T00:00:00", 
+                "degree": "MB ChB Rhodesia"
+            }, 
+            {
+                "date": "1986-05-16T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. HENNIE  GREEFF"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1986-06-27T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. LOURENS MATTHYS DU TOIT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1981-11-24T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1986-10-24T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. LOUISE  GORDON-SMITH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-06-19T00:00:00", 
+                "degree": "MB ChB St And"
+            }, 
+            {
+                "date": "1986-11-07T00:00:00", 
+                "degree": "MMed (Chem Path) Medunsa"
+            }
+        ], 
+        "name": "DR. JOHN  ELIAS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1980-12-01T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1986-12-11T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. MARGUERITE DE SAVOYE DU PREEZ"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-06-18T00:00:00", 
+                "degree": "BM Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1987-06-01T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. ARCHIE MARTIN RUDMAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-12-07T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1987-06-15T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. WILLEM HERMANUS DE VILLIERS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1971-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1987-07-09T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. ELMA WILHELMINA VAN DEN ENDE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1974-11-19T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1987-11-01T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. HELEN CECILIA WAINWRIGHT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1987-11-30T00:00:00", 
+                "degree": "MMed (Path Anat) Witwatersrand"
+            }
+        ], 
+        "name": "DR. HENDRIK  JANSEN VAN RENSBURG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1982-11-12T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1988-10-11T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. ANIL  BRAMDEV"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1982-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1989-06-16T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. ANNA ALETTA MARIA SMITH"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1980-12-05T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1989-11-01T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. ELLEN  BOLDING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-11-27T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1989-11-27T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. NICHOLAS TROMP VAN DIGGELEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1976-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1989-11-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. FRANS ROELOF PETRUS DE BRUYN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1977-11-16T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1984-05-04T00:00:00", 
+                "degree": "FF Path (SA)"
+            }, 
+            {
+                "date": "1989-11-30T00:00:00", 
+                "degree": "DOH Witwatersrand"
+            }
+        ], 
+        "name": "DR. JILL  MURRAY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-12-09T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1989-12-14T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. ROSWILL  MILLIN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1981-12-11T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1990-01-05T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. MAGDALENA JOHANNA CRAUSE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-16T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1990-10-31T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. ASHWIN  BRAMDEV"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-12-09T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1990-11-21T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. JOHANN WILHELM SCHNEIDER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-11-16T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1986-10-30T00:00:00", 
+                "degree": "FF Path (SA)"
+            }, 
+            {
+                "date": "1991-04-19T00:00:00", 
+                "degree": "MRC Path Lond"
+            }
+        ], 
+        "name": "DR. GANGARAM  HARIPARSAD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1984-11-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1991-04-30T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. VANESSA JEANNE FRANCISCA OBERS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1991-11-25T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. JAKOBUS DANIEL VAN WYK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1984-12-10T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1991-11-27T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. COLETTE ANTOINETTE CARSTENS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-20T00:00:00", 
+                "degree": "MB ChB Zimbabwe"
+            }, 
+            {
+                "date": "1991-12-31T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. MARK KEVIN WICKHAM"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1958-11-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1980-06-30T00:00:00", 
+                "degree": "MRC Path Lond"
+            }, 
+            {
+                "date": "1992-01-02T00:00:00", 
+                "degree": "FRC Path Lond"
+            }
+        ], 
+        "name": "DR. PETER CECIL KING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1991-12-31T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }, 
+            {
+                "date": "1992-05-08T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. MARTHINUS MOUTON BOSHOFF"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1982-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1992-08-26T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. NICOLAAS JOHANNES JACOBUS COMBRINK"
+    }, 
+    {
+        "gender": null, 
+        "degrees": [
+            {
+                "date": "1984-11-20T00:00:00", 
+                "degree": "MB ChB Zimbabwe"
+            }, 
+            {
+                "date": "1992-10-19T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. DERYCK ARNOLD TAYLOR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1984-11-16T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1992-10-30T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. KARUNA NAVLICA RUGHUBAR"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1986-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1992-11-10T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. RICHARD PHILIP TUSTIN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1985-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1992-12-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. WILLEM HENDRIK BRUMMER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1980-12-05T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1993-04-07T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. JUDITH ALICE WHITTAKER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1982-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1989-05-15T00:00:00", 
+                "degree": "G F Pat (SA) Anat"
+            }, 
+            {
+                "date": "1993-04-22T00:00:00", 
+                "degree": "MMed (Path) Stell"
+            }
+        ], 
+        "name": "DR. DIRK JOHANNES THEODORUS VAN NIEKERK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1978-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1985-11-30T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }, 
+            {
+                "date": "1993-04-30T00:00:00", 
+                "degree": "D For Med (SA)"
+            }
+        ], 
+        "name": "DR. GERHARDUS HENDRIK DAVEL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1987-07-01T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "1992-10-26T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }, 
+            {
+                "date": "1993-04-30T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. NDWELENI MESHACK BIDA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1986-12-09T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1993-04-30T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. PRATISTADEVI KANAYE RAMDIAL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1986-11-28T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1993-10-22T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. STEPHEN ROGER LYNE PURCELL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1993-10-22T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. COLLEEN ANNE WRIGHT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-11-27T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1992-04-14T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }, 
+            {
+                "date": "1993-10-28T00:00:00", 
+                "degree": "D For Med (SA)"
+            }
+        ], 
+        "name": "DR. MICHAEL DAVID FORDER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1991-12-13T00:00:00", 
+                "degree": "MMed (Forens Path) Stell"
+            }, 
+            {
+                "date": "1992-05-12T00:00:00", 
+                "degree": "G Gereg Pat (SA)"
+            }, 
+            {
+                "date": "1993-11-23T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. IZAK ADRIAAN JOHANNES LOFTUS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1986-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1993-11-23T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. JUANITA  BEZUIDENHOUT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1985-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1993-11-24T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. MARIA JACOBA GERTENBACH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1978-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1994-06-10T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. ALWYN DE WET VAN ZYL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-18T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1994-10-21T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. SIMON JOHN NAYLER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1994-10-21T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }
+        ], 
+        "name": "DR. YVONNE  PERNER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1978-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1994-11-23T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. FREDERIK TIELMAN BOTHA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1992-10-30T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }, 
+            {
+                "date": "1994-05-19T00:00:00", 
+                "degree": "MRC Path Lond"
+            }, 
+            {
+                "date": "1994-12-15T00:00:00", 
+                "degree": "MMed Natal"
+            }
+        ], 
+        "name": "PROF STEWART JOHN WILLIAM GOETSCH"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-12-09T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1995-01-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. LINDA  STEYN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-13T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1995-05-05T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. NERISSA GERMAINE LAZARUS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-09T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "1995-06-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. JACQUELINE ELIZABETH DE JAGER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1995-08-07T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. JURGEN ERICH DINKEL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1985-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1988-12-01T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }, 
+            {
+                "date": "1989-11-01T00:00:00", 
+                "degree": "DA (SA)"
+            }, 
+            {
+                "date": "1994-11-23T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }, 
+            {
+                "date": "1995-10-25T00:00:00", 
+                "degree": "D For Med (SA)"
+            }
+        ], 
+        "name": "DR. CHRISTOPHER ROBERT EEDES"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1982-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1995-11-13T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. JACOBUS ADRIAAN LOUW"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1989-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1996-03-06T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. ELSIE  WESSELS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1987-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1996-04-26T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. DAVID  LAING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1989-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1996-04-29T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }, 
+            {
+                "date": "1996-05-07T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. TOMAS  SLAVIK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1985-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1993-04-30T00:00:00", 
+                "degree": "FF Path (SA) Anat"
+            }, 
+            {
+                "date": "1994-10-26T00:00:00", 
+                "degree": "MRC Path Lond"
+            }, 
+            {
+                "date": "1996-08-14T00:00:00", 
+                "degree": "MMed (Anat Path) Natal"
+            }
+        ], 
+        "name": "DR. DHIRENDRA  GOVENDER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1986-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1993-11-21T00:00:00", 
+                "degree": "MMed (Med Forens) Pret"
+            }, 
+            {
+                "date": "1996-10-25T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. FRANCOIS WOUTER THERON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1983-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1996-10-26T00:00:00", 
+                "degree": "MRC Path Lond"
+            }
+        ], 
+        "name": "DR. CAROLYN FRANCES BAIGRIE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1980-12-01T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1996-11-06T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. DOROTHEE IRENE FREIIN VON ULMENSTEIN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1989-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1996-11-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. ERNST LODEWYK JOHANNES VENTER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1980-12-19T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1987-05-01T00:00:00", 
+                "degree": "D For Med (SA)"
+            }, 
+            {
+                "date": "1996-12-06T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. CHRISTOPHER NICHOLAS MTUTUZELI MZILENI"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1987-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1997-05-08T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. MICHELLE  DUBB"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1997-05-08T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. TANVIER  OMAR"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-18T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1997-05-08T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. BRUNTON  WIUM"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1985-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1998-06-19T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. WYNAND PHILLIPUS MINNAAR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1986-11-28T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1992-12-08T00:00:00", 
+                "degree": "MMed (Forens Path) Stell"
+            }, 
+            {
+                "date": "1993-04-30T00:00:00", 
+                "degree": "F For Path (SA)"
+            }, 
+            {
+                "date": "1998-06-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. DEBORAH JOHANNA MAARTENS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1989-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1998-10-29T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. DIANNE ANTHEA TURTON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1991-11-22T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1998-11-26T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. KAREN  BRUNDYN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1990-11-26T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1999-04-22T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. PRIYADARSHNI  MEDLEY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-01-01T00:00:00", 
+                "degree": "MD Belgrade"
+            }, 
+            {
+                "date": "1999-04-22T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. DRAGANA  RADIBRATOVIC - CVIJAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1983-11-10T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1990-11-21T00:00:00", 
+                "degree": "MMed (O et G) Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1999-06-01T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. AMANDA  DE BEER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1991-06-14T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "1999-07-28T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. TEBATSO  KEKANA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1999-10-21T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. PREEADASHNIE  PILLAY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1982-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1991-10-25T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "1999-12-07T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. KATHRYN LINDA TAYLOR"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-09-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. JOHN QUAIL DAVIES"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1989-01-01T00:00:00", 
+                "degree": "MB BS Punjab"
+            }, 
+            {
+                "date": "1998-11-05T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "1999-06-29T00:00:00", 
+                "degree": "MMed (Path Anat) Witwatersrand"
+            }, 
+            {
+                "date": "2000-05-25T00:00:00", 
+                "degree": "MRC Path Lond"
+            }
+        ], 
+        "name": "DR. MONALISA  SUR"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2000-10-16T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. MICHAEL DEVITT HOFMEYR"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1967-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1973-06-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. BRUCE DAVID MIDDLECOTE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1969-11-08T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1974-11-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }, 
+            {
+                "date": "1987-01-08T00:00:00", 
+                "degree": "MD Pret"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. LEONORA  DREYER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1969-11-30T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1975-12-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1981-03-28T00:00:00", 
+                "degree": "DM Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FC Path (SA) HAEM"
+            }
+        ], 
+        "name": "DR. PHILIP NEL BADENHORST"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-11-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1985-01-01T00:00:00", 
+                "degree": "PhD (Med) Witwatersrand"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. ALAN CLIVE PATERSON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1980-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1988-10-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }, 
+            {
+                "date": "2000-07-24T00:00:00", 
+                "degree": "MMed (Anaes) Pret"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "F For Path (SA)"
+            }
+        ], 
+        "name": "DR. ALIDA ELIZABETH VAN DER HOVEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1991-11-29T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. IAN RALPH GEORGE BEAVON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1994-11-25T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2000-11-22T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. LOUIS FRANCOIS SLABBERT POOL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1991-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2000-11-30T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. ROGER WARWICK JAMES"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1993-10-29T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2000-12-01T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. JANETTA-SOPHIA  DU PLESSIS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-10-28T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2000-10-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2000-12-01T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. HILDEGONDA  ASPELING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-11-19T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2001-04-30T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. GERHARD DANIEL VAN DER LINDE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1986-01-01T00:00:00", 
+                "degree": "Dip in Med Med Academy Wroclaw"
+            }, 
+            {
+                "date": "2001-05-10T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. KIRA KATARZYNA WISNIEWSKI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-10-29T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2001-06-06T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. RUDOLPH JACOBUS PETRUS BOTHA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1993-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2001-10-01T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. JEANETTE  VAN DER MERWE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1969-12-09T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1975-05-02T00:00:00", 
+                "degree": "FF Path (SA)"
+            }, 
+            {
+                "date": "1976-12-27T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FC For Path (SA)"
+            }
+        ], 
+        "name": "DR. JAN BAREND CHRISTIAAN BOTHA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-12-06T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "1999-10-18T00:00:00", 
+                "degree": "FCS (SA)"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. RUSTUM  SOLOMON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1989-01-01T00:00:00", 
+                "degree": "LMC Pisa"
+            }, 
+            {
+                "date": "2001-11-14T00:00:00", 
+                "degree": "MMed (Anat Pat) Medunsa"
+            }
+        ], 
+        "name": "DR. CINZIA  CAMPAINI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1991-11-22T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2001-11-14T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. FRANS JACOBUS COLESKY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2001-11-14T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. KARL WYNAND VERMEULEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1989-10-23T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "1995-10-20T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2001-12-05T00:00:00", 
+                "degree": "PhD Witwatersrand"
+            }
+        ], 
+        "name": "DR. WAYNE  GRAYSON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1993-11-19T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2001-12-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. MARIE-LEEN  SHAW"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-11-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2003-01-09T00:00:00", 
+                "degree": "MRC Path Lond"
+            }
+        ], 
+        "name": "DR. RENEE  MALLETT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-22T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2003-05-09T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. BRIDGET  MITCHELL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2003-06-03T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. MELANIE  LOUW"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-11-17T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2003-06-06T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. MARIUS WILLEM VAN DER WALT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-22T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. SHIVON MAHABEER SINGH"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. TRACEY LAURA DAUTH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-11-29T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. LESIBA  MOGOTLANE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1990-11-05T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1997-07-01T00:00:00", 
+                "degree": "MMed (Med Forens) Pret"
+            }, 
+            {
+                "date": "2003-11-24T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. REINETTE  DU PLESSIS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2003-12-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. ENID  DU RAAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-03-14T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2004-07-30T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. RYAN PETER SOLDIN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1986-10-31T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1992-12-08T00:00:00", 
+                "degree": "MMed (Haem Path) Stell"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. ELIZABETH HELEN LOMBARD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1996-11-30T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. DUNISANI BRUCE MATELAKENGISA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1997-11-29T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "PROF KOMALA  PILLAY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. PETRUS JOHANNES SWANEPOEL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-22T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2002-10-17T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2004-11-30T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }
+        ], 
+        "name": "DR. CHARLOTTE IRENE RAY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-28T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2004-06-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }, 
+            {
+                "date": "2004-11-30T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }
+        ], 
+        "name": "DR. JACQUELINE  GOEDHALS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1996-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2005-01-30T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. CRAIG  JAMIESON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-01-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2005-03-22T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. HANNES  HOLM"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-11-28T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2005-04-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. CASPER HEUNIS JANSE VAN RENSBURG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-11-28T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2005-05-03T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. WILLOUW  DE KLERK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-05-12T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. DAVID MARTHINUS MARX"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-01-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-05-12T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. TREVOR JOHN VAN DER WALT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-22T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2005-05-12T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. ISAIVANI  REDDY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2005-05-12T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "MR. NDABUKO HAMILTON HLATSHWAYO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1989-12-13T00:00:00", 
+                "degree": "Dip in Med Timisoara"
+            }, 
+            {
+                "date": "1995-05-05T00:00:00", 
+                "degree": "Dip For Med (SA)"
+            }, 
+            {
+                "date": "2001-11-15T00:00:00", 
+                "degree": "MMed (Med Forens) Orange Free State"
+            }, 
+            {
+                "date": "2002-05-23T00:00:00", 
+                "degree": "FC For Path (SA)"
+            }, 
+            {
+                "date": "2005-06-23T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. STEFAN-DAN  ZAHARIE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1997-11-26T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. ANITA BETH GILDENHUYS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-10-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2005-12-09T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. PAWEL TOMASZ SCHUBERT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-30T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. YETISH  SING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. THAMSAMQA AUBREY MADLIWA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-11-26T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. BONGANI JOHN ZULU"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. MOLIKANE EZRA DAVID MASENYA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-01-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2006-06-14T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. PIETER  BLOEM"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1998-11-26T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. AGATA PAULINA CZAJKOWSKI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-30T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. NISCHALAN  PILLAY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-11-25T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2006-11-28T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. GILLAUME JOHAN SWART"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-12-10T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2006-12-01T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. JACQUES PRETORIUS PIENAAR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1993-01-01T00:00:00", 
+                "degree": "MB ChB Witwatersrand"
+            }, 
+            {
+                "date": "1999-10-21T00:00:00", 
+                "degree": "Dip For Med (SA)"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FC For Path (SA)"
+            }, 
+            {
+                "date": "2007-05-10T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. BABITA DHIRAJLAL BHANA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2007-06-04T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. PAULA  EYAL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-14T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2007-05-10T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2007-06-04T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. KESHREE  GAYAPARSAD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-30T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2007-06-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. VICTOR ANTHONY YAZBEK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1998-10-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2007-06-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. CHRISTIE  ESTERHUYSEN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-12-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. CHRISTOPHER PHILIPP MASKE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-10-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2008-01-01T00:00:00", 
+                "degree": "FRC Path Lond"
+            }
+        ], 
+        "name": "DR. ROBERT JAMES BARNETSON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1998-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2008-03-14T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. LEOCARDEA  SCHROETER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. JONATHAN MARK RIGBY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-24T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. AHMED ISMAIL MOTALA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-27T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. SUMESHINI  SUBRAYAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. KIM TRACEY BLAIR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2008-06-05T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. ELAINE  BEKKER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. NKAGISANG PULANE MOSIANE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. LERATO MMAKENTSE NOKOANE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-29T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. CHRISTOPHER LOUIS WALKER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-20T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2008-11-24T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. JAN DANIEL ERASMUS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2009-04-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. JOHAN CHRISTIAAN JANSEN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. SALLY-ANNE RHULANI KHOSA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. HUE-TSI  WU"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1998-10-30T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. ELMARIE  POTGIETER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2005-12-20T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2009-06-12T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. MICHAEL LOUIS LOCKETZ"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-01T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2009-12-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. JACORETHA  THIART"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-06-26T00:00:00", 
+                "degree": "FOREIGN"
+            }, 
+            {
+                "date": "2010-01-14T00:00:00", 
+                "degree": "FRC Path Lond"
+            }
+        ], 
+        "name": "DR. PETER  LIPTAK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2010-01-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. HENNO JAN OLIVIER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2010-03-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. PETER JOHANNES SWART"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB ChB- Free State"
+            }, 
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB ChB- Free State"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. SHUMANI EMMANUEL MALAKA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-11-18T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. EUNICE JOY VAN DEN BERG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. RAVEENDRA  SOOKHAYI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-30T00:00:00", 
+                "degree": "TDD Wales"
+            }, 
+            {
+                "date": "1999-11-30T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. SHAUN  NAICKER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-11-22T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-10-02T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. REENEE  MUNBODH"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. NIVESH ASHOK CHOTEY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. PHUMLANI SIPHUMELELE MEYIWA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. JULIAN  DEONARAIN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. MABITSELA SIMON MAHLAKWANE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2010-11-23T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. NOOROUDIEN  MOHAMED"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2010-12-31T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. MMAMOLETLA WELHEMINAH KGOEBANE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-30T00:00:00", 
+                "degree": "MB ChB Medunsa"
+            }, 
+            {
+                "date": "2011-03-11T00:00:00", 
+                "degree": "MMed (Anat Pat) Stell"
+            }
+        ], 
+        "name": "DR. MMAPHUTI JAQUELINE CHOKOE- MALULEKE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. NASEEMA ISMAIL VORAJEE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. BUHLE  MQADI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-19T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. JALALUDIN IMRAN VAUBELL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-01-29T00:00:00", 
+                "degree": "Cert Basic Amb Asst - MRI Academy Johannesburg"
+            }, 
+            {
+                "date": "2004-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. REUBINA  WADEE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-16T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. MARIJKE  SMIT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-27T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2005-10-20T00:00:00", 
+                "degree": "DA (SA)"
+            }, 
+            {
+                "date": "2011-10-27T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. ABRAHAM CHRISTOFFEL VAN WYK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2011-11-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. CAROLINA ELIZABETH NEL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-14T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2011-12-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. FABIO LEONARDO CRABBIA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-30T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2012-02-27T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. ANNE-LOUISE  DE VILLIERS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-12-03T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2005-12-03T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. PRASHNI  GOVENDER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. LAUREN YVETTE BLACKBURN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. ASHMINI  MADAREE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2012-06-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. GERHARD  VAN DER WESTHUIZEN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2012-10-11T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. CHRISTINE  CRAUSE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-23T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. NICOLE JOY MORSE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-14T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2012-12-04T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. EMMERENTIA  MARAIS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2012-12-12T00:00:00", 
+                "degree": "MMed Path (Anat) Cape Town"
+            }
+        ], 
+        "name": "DR. SUGESHNEE  PATHER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-10T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2013-02-15T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. DANIEL RUDOLPH DE WET"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-12-31T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. KIRSTIN JANINE FEARNHEAD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. SHAROL PHILILE NGWENYA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-23T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. RIYAADH  ROBERTS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-27T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2013-06-21T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. LOUIS JOHANNES LIGTHELM"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-01T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2013-11-01T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. TANYA ILANA WANTENAAR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-24T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. MAPHOPHOLETSE BAATSEBA THOBEJANE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2005-11-25T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. MICHEAL JOHANNES OTTO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2014-06-30T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. STEFANUS WILLEM DEWALD VAN DER WALT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-21T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "DMH (SA)"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2014-07-02T00:00:00", 
+                "degree": "MMed (Path Anat) Witwatersrand"
+            }
+        ], 
+        "name": "DR. REENA DHANSUKH MOHANLAL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-01T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. FRANCOIS CORNELIUS JACOBUS BOTHA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-03T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2014-10-30T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. ALBA  VAN ROOYEN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-19T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2014-11-21T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. LIEZEL  COETZEE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-12-08T00:00:00", 
+                "degree": "MB ChB Transkei"
+            }, 
+            {
+                "date": "2014-12-05T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. AYANDA  MFOKAZI"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-24T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2014-12-09T00:00:00", 
+                "degree": "MMed (Anat Path) Stell"
+            }
+        ], 
+        "name": "DR. RUBINA  RAZACK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-30T00:00:00", 
+                "degree": "MB ChB Limpopo"
+            }, 
+            {
+                "date": "2014-12-16T00:00:00", 
+                "degree": "MMed (Anat Path) Medunsa"
+            }
+        ], 
+        "name": "DR. MOYAHABO BRENDA NEMUKONGWE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2006-11-24T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2014-12-31T00:00:00", 
+                "degree": "MMed (Anat Pat) Orange Free State"
+            }
+        ], 
+        "name": "DR. RENE  RAUBENHEIMER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2006-12-05T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. TIRELO MAGAMANE PITJADI"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2006-12-05T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. YAVINI  REDDY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-11-03T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }
+        ], 
+        "name": "DR. NAEEM  OSMAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2005-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2015-05-25T00:00:00", 
+                "degree": "MMed (Path Anat) Witwatersrand"
+            }
+        ], 
+        "name": "DR. EWEN DAVID MCALPINE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-02T00:00:00", 
+                "degree": "MB ChB Limpopo"
+            }, 
+            {
+                "date": "2015-06-02T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. TEBOGO LINKY MEDUPE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2006-12-01T00:00:00", 
+                "degree": "MB ChB Limpopo"
+            }, 
+            {
+                "date": "2015-06-02T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. MARISSA SUSANNA MULLER"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-27T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "Dip For Med (SA)"
+            }, 
+            {
+                "date": "2010-12-31T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }, 
+            {
+                "date": "2015-06-22T00:00:00", 
+                "degree": "MMed (Path) Pret"
+            }
+        ], 
+        "name": "DR. CHRISTINA MARGARETHA CRONJE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2005-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2015-10-22T00:00:00", 
+                "degree": "FC Path (SA) ANAT"
+            }, 
+            {
+                "date": "2015-11-05T00:00:00", 
+                "degree": "MMed (Path Anat) Witwatersrand"
+            }
+        ], 
+        "name": "DR. ROBERT MYLES MARITZ"
+    }
+]

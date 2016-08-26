@@ -1,0 +1,998 @@
+[
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-11-02T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1980-06-30T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }, 
+            {
+                "date": "1980-10-17T00:00:00", 
+                "degree": "LKI (SA)"
+            }
+        ], 
+        "name": "DR. WILLI LEO SIELING"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-11-19T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1982-11-29T00:00:00", 
+                "degree": "MMed (Community Health) Cape Town"
+            }
+        ], 
+        "name": "DR. GREGORY DUDLEY HUSSEY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1979-11-02T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1986-05-16T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. RAZIYA AHMED BOBAT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1981-11-26T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1985-11-30T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }, 
+            {
+                "date": "1986-10-24T00:00:00", 
+                "degree": "FF Path (SA)"
+            }
+        ], 
+        "name": "DR. KEITH PAUL KLUGMAN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-11-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1986-11-18T00:00:00", 
+                "degree": "MMed (Med) Witwatersrand"
+            }
+        ], 
+        "name": "DR. DAVID COLIN SPENCER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1979-11-19T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1982-10-22T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "1986-05-16T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "1987-11-30T00:00:00", 
+                "degree": "MMed (Paed) Witwatersrand"
+            }, 
+            {
+                "date": "1987-11-30T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }
+        ], 
+        "name": "DR. MARK FREDRIC COTTON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-07-15T00:00:00", 
+                "degree": "MB BS Lond"
+            }
+        ], 
+        "name": "DR. GREGORY MARC SOLOMON MENDELSON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1974-07-13T00:00:00", 
+                "degree": "BM BCh Oxfd"
+            }, 
+            {
+                "date": "1989-10-26T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. ROBIN  WOOD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1984-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1991-04-30T00:00:00", 
+                "degree": "FCP (SA) Paed"
+            }
+        ], 
+        "name": "DR. BRIAN STEPHEN ELEY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1977-11-16T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1989-02-22T00:00:00", 
+                "degree": "MMed (Med) Witwatersrand"
+            }, 
+            {
+                "date": "1991-11-30T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }
+        ], 
+        "name": "DR. ALAN STANLEY KARSTAEDT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1986-11-30T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1992-10-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. MAHOMED YUNUS SULEMAN MOOSA"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1995-11-30T00:00:00", 
+                "degree": "MMed (Int) Stell"
+            }
+        ], 
+        "name": "DR. HANS WALTER PROZESKY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1996-04-26T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. SHABIR AHMED MADHI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1996-10-25T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. IAN MATTHIAS SANNE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-01-01T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "1997-01-09T00:00:00", 
+                "degree": "MMed (Int) Oranje-Vrystaat"
+            }
+        ], 
+        "name": "DR. DEWALD  STEYN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1999-01-12T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. DOUGLAS PAUL KINGHURST WILSON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1992-11-27T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1994-10-28T00:00:00", 
+                "degree": "Dip Obst (SA)"
+            }, 
+            {
+                "date": "1995-05-10T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. JAMES JOLYON CAREY NUTTALL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-12-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. WILLEM DANIEL FRANCOIS VENTER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1991-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1994-04-28T00:00:00", 
+                "degree": "DTM & H Lond"
+            }, 
+            {
+                "date": "1996-07-22T00:00:00", 
+                "degree": "MRCP (UK)"
+            }, 
+            {
+                "date": "2000-12-31T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }
+        ], 
+        "name": "DR. DEON  OOSTHUIZEN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1994-11-18T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2001-05-10T00:00:00", 
+                "degree": "MMed (Ped) Stell"
+            }
+        ], 
+        "name": "DR. HELENA  RABIE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1991-01-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2001-12-12T00:00:00", 
+                "degree": "MMed (Int) Stell"
+            }
+        ], 
+        "name": "DR. JOHANNES JAKOBUS TALJAARD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1990-10-18T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2001-12-30T00:00:00", 
+                "degree": "MMed (Int) Orange Free State"
+            }
+        ], 
+        "name": "DR. JACOB CLOETE JANSEN VAN VUUREN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-12-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2002-05-23T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. GRAEME AYTON MEINTJES"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-08-30T00:00:00", 
+                "degree": "FOREIGN"
+            }
+        ], 
+        "name": "DR. ELKE REGINA MARITZ"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1995-11-22T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2003-05-08T00:00:00", 
+                "degree": "Dip Hiv Management (SA)"
+            }
+        ], 
+        "name": "DR. HALIMA  DAWOOD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1992-11-27T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1998-10-29T00:00:00", 
+                "degree": "FC Path (SA) MICRO"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "Dip Hiv Management (SA)"
+            }
+        ], 
+        "name": "DR. MELANIE-ANNE AMANDA JOHN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1974-11-18T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2003-12-04T00:00:00", 
+                "degree": "MMed (Path Microbiol) Witwatersrand"
+            }
+        ], 
+        "name": "DR. LUCILLE HELLEN BLUMBERG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-12-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2004-04-30T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. KEVIN BRIAN REBE"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1997-11-28T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. HEATHER  FINLAYSON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-11-19T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. GARY  REUBENSON"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1993-10-29T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2004-07-21T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }
+        ], 
+        "name": "DR. ANTON CAREL STOLTZ"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1990-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2000-05-11T00:00:00", 
+                "degree": "FC Path (SA) MICRO"
+            }, 
+            {
+                "date": "2002-05-23T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "Dip Hiv Management (SA)"
+            }
+        ], 
+        "name": "DR. FARIDA CASSIM AMOD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1996-11-22T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "1998-10-29T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. MOHERNDRAN  ARCHARY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-25T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }
+        ], 
+        "name": "DR. FAIEZA  SAHID"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1996-01-01T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. HELEN MARGARETHA VAN DER PLAS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1996-11-20T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2004-05-13T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. DAVID PAUL MOORE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1980-11-30T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "1987-11-30T00:00:00", 
+                "degree": "MMed (Paed) Stell"
+            }, 
+            {
+                "date": "1989-11-30T00:00:00", 
+                "degree": "DGG Stell"
+            }, 
+            {
+                "date": "2002-12-06T00:00:00", 
+                "degree": "MD Stell"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "PROF HENDRIK SIMON SCHAAF"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1995-01-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1998-04-29T00:00:00", 
+                "degree": "DTG Pret"
+            }, 
+            {
+                "date": "2006-12-30T00:00:00", 
+                "degree": "MMed (Int) Pret"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. ARMIN  DEFFUR"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2007-05-10T00:00:00", 
+                "degree": "Dip Hiv Management (SA)"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. SHAUN LAWRENCE BARNABAS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2008-05-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2008-10-23T00:00:00", 
+                "degree": "Dip Allerg (SA)"
+            }, 
+            {
+                "date": "2009-09-30T00:00:00", 
+                "degree": "MMed (Paed) Pret"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "Dip Hiv Management (SA)"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. NICOLETTE MARIE DU  PLESSIS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-24T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2002-10-17T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. ANGELA  DRAMOWSKI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-11-16T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. PHILIP RUDOLF BOTHA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2002-10-17T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2011-12-20T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. REENE  NAIDOO"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1988-11-04T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1997-06-06T00:00:00", 
+                "degree": "MMed (Paed) Pret"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. THEUNIS JOHANNES AVENANT"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-22T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. SIPHO KENNETH DLAMINI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-16T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. IZAK CRONJE HEYS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-11-30T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2003-10-16T00:00:00", 
+                "degree": "Dip Obst (SA)"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. DAVID MARTIN LE ROUX"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-25T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. JOHN MAULE BLACK"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-22T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. MELISSA ANN VERONICA LAWLER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1999-11-26T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "DA (SA)"
+            }, 
+            {
+                "date": "2008-10-18T00:00:00", 
+                "degree": "Dip Obst (SA)"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2013-10-24T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. DAVID FRANCIS STEAD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2004-10-14T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2005-10-31T00:00:00", 
+                "degree": "Board Exam - HPCSA"
+            }, 
+            {
+                "date": "2006-05-18T00:00:00", 
+                "degree": "Dip Hiv Management (SA)"
+            }, 
+            {
+                "date": "2006-06-24T00:00:00", 
+                "degree": "MMed (Int) Witwatersrand"
+            }, 
+            {
+                "date": "2006-11-19T00:00:00", 
+                "degree": "DTM & H Witwatersrand"
+            }, 
+            {
+                "date": "2009-10-15T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }, 
+            {
+                "date": "2013-10-28T00:00:00", 
+                "degree": "PhD Witwatersrand"
+            }
+        ], 
+        "name": "DR. COLIN NIGEL MENEZES"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1999-11-29T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2001-10-18T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. LISA JANE FRIGATI"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2011-05-19T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. EVAN GARTH SHOUL"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2002-11-22T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "Cert ID(SA) Paed"
+            }
+        ], 
+        "name": "DR. HARSHA  LOCHAN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-25T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2015-10-22T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. JADE CARIS MOGAMBERY"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1988-11-30T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1996-04-26T00:00:00", 
+                "degree": "FCP (SA)"
+            }, 
+            {
+                "date": "2015-10-22T00:00:00", 
+                "degree": "Cert ID(SA) Phys"
+            }
+        ], 
+        "name": "DR. PRUDENCE DOROTHY IVE"
+    }
+]

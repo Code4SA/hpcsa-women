@@ -1,0 +1,410 @@
+[
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1952-12-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1958-10-15T00:00:00", 
+                "degree": "FRCS Edin"
+            }
+        ], 
+        "name": "DR. ROBERT EDWARD MICKEL"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1971-12-01T00:00:00", 
+                "degree": "MB ChB Cape Town"
+            }, 
+            {
+                "date": "1976-05-21T00:00:00", 
+                "degree": "FRCS Edin"
+            }
+        ], 
+        "name": "DR. SAMUEL WILLIAM MOORE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1970-11-06T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1977-10-28T00:00:00", 
+                "degree": "FCS (SA)"
+            }, 
+            {
+                "date": "1977-12-30T00:00:00", 
+                "degree": "FRCS Edin"
+            }
+        ], 
+        "name": "DR. PETER GORDON BEALE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1973-11-01T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "1980-05-02T00:00:00", 
+                "degree": "FCS (SA)"
+            }
+        ], 
+        "name": "DR. WILLIAM CHRISTOPHER SAUNDERS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1972-11-01T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "1981-05-01T00:00:00", 
+                "degree": "FCS (SA)"
+            }, 
+            {
+                "date": "1981-10-05T00:00:00", 
+                "degree": "FRCS Edin"
+            }, 
+            {
+                "date": "1981-12-07T00:00:00", 
+                "degree": "FRCS Glasg"
+            }
+        ], 
+        "name": "DR. WOPKE ANNE VAN HOORN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1982-10-31T00:00:00", 
+                "degree": "MB BS Poona"
+            }
+        ], 
+        "name": "DR. MILIND RAMCHANDRA CHITNIS"
+    }, 
+    {
+        "gender": null, 
+        "degrees": [
+            {
+                "date": "1994-03-31T00:00:00", 
+                "degree": "FOREIGN"
+            }
+        ], 
+        "name": "DR. RENATE  FARTACEK"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-12-12T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2002-10-17T00:00:00", 
+                "degree": "Dip PEC (SA)"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. RICHARD JOHN WOOD"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2010-10-14T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. CHRISTOPHER JAMES WESTGARTH-TAYLOR"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. MARIZA  DE VILLIERS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2001-11-23T00:00:00", 
+                "degree": "MB ChB Natal"
+            }, 
+            {
+                "date": "2010-05-13T00:00:00", 
+                "degree": "FCS (SA)"
+            }, 
+            {
+                "date": "2011-10-20T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. HANSRAJ  MANGRAY"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. ANDREW DUNCAN GRIEVE"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2002-12-04T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. CHARLES PHILIP DO NASCIMENTO FERNANDES CARAPINHA"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2003-11-27T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. WILNA  THIEBAUT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2001-11-28T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2012-05-24T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. SAVESHREE  GOVENDER"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1997-02-28T00:00:00", 
+                "degree": "FOREIGN"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. DEREK STANLEY HARRISON"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-11-25T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2006-10-19T00:00:00", 
+                "degree": "DCH (SA)"
+            }, 
+            {
+                "date": "2012-10-18T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. MARION  ARNOLD"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2000-11-17T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2009-05-14T00:00:00", 
+                "degree": "FCS (SA)"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. LESLEY MARCIA MAUDE NUNN"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "1998-11-30T00:00:00", 
+                "degree": "MB ChB Oranje-Vrystaat"
+            }, 
+            {
+                "date": "2013-05-23T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. DIRK  VON DELFT"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "1997-11-25T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }, 
+            {
+                "date": "2014-05-15T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. CARLA  VAN RENSBURG"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2006-11-23T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2006-11-23T00:00:00", 
+                "degree": "MB ChB Pret"
+            }, 
+            {
+                "date": "2014-10-16T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }, 
+            {
+                "date": "2014-12-31T00:00:00", 
+                "degree": "MMed (Paed) Pret"
+            }
+        ], 
+        "name": "DR. PAUL STUART STEVENS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2005-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2005-11-23T00:00:00", 
+                "degree": "MB BCh Witwatersrand"
+            }, 
+            {
+                "date": "2007-10-18T00:00:00", 
+                "degree": "DA (SA)"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. KELLY STORM HOFFMANN"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2004-12-10T00:00:00", 
+                "degree": "MB ChB Transkei"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. ANJANA  BAIRAGI"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2006-11-24T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. ELIZABETH  BRITS"
+    }, 
+    {
+        "gender": "female", 
+        "degrees": [
+            {
+                "date": "2006-11-24T00:00:00", 
+                "degree": "MB ChB Free State"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Paed Surg (SA)"
+            }
+        ], 
+        "name": "DR. CORNE  DE VOS"
+    }, 
+    {
+        "gender": "male", 
+        "degrees": [
+            {
+                "date": "2000-11-04T00:00:00", 
+                "degree": "MB ChB Stell"
+            }, 
+            {
+                "date": "2015-05-21T00:00:00", 
+                "degree": "FC Paed (SA)"
+            }
+        ], 
+        "name": "DR. ANDRE PIETER THERON"
+    }
+]
