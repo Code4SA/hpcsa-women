@@ -1422,7 +1422,7 @@
         "name": "DR. HUMPHREY THABO LEGODI"
     }, 
     {
-        "gender": "female", 
+        "gender": "male", 
         "degrees": [
             {
                 "date": "1996-11-07T00:00:00", 
@@ -1724,7 +1724,7 @@
         "name": "DR. LEONARD JOHANNES DU PREEZ"
     }, 
     {
-        "gender": "male", 
+        "gender": "female", 
         "degrees": [
             {
                 "date": "1999-11-30T00:00:00", 
