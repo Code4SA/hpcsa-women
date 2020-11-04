@@ -1,7 +1,9 @@
 # hpcsa-women
 Visualisations of women in medical professions
 
-[Viz](http://code4sa.org/hpcsa-women/women.html)
+<img src="cardiothoracic.png"/>
+
+[Main Viz](http://code4sa.org/hpcsa-women/women.html)
 
 * [Cardiothoracic](http://code4sa.org/hpcsa-women/cardiothoracic.html)
 * [Vascular Surgeons](http://code4sa.org/hpcsa-women/vascular.html) [and](http://code4sa.org/hpcsa-women/degrees.html)
